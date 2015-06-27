@@ -1,5 +1,5 @@
 package com.qrcode;
-
+//Just for test
 
 import com.google.zxing.WriterException;
 import com.zxing.activity.CaptureActivity;
